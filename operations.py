@@ -1,5 +1,5 @@
 def add(x,y):
-    return (x+y)
+    return (x+y) # jose 
 
 def multiply(x,y):
     return (x * y) # multiply
