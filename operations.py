@@ -6,3 +6,6 @@ def multiply(x,y):
 
 def divide(x,y):
     return(x/y) #function to divide
+
+def subtract(x,y):
+    pass
